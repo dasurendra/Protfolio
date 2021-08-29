@@ -12,3 +12,10 @@
 #about {
   background: lightgray;
 }
+#contact {
+  background: rgb(70, 69, 69);
+}
+#contact i {
+  font-size: 4rem;
+  color: white;
+}
