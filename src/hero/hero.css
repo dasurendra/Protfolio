@@ -1,0 +1,24 @@
+.hero {
+  min-height: 60vh;
+  background: url(../assests/img/bg1.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.navbarHov {
+  color: blue !important;
+}
+/* .navbar-nav a:hover {
+  color: var(--main-color) !important;
+} */
+
+.navbarHov:hover {
+  color: green !important;
+  zoom: 1.6;
+}
+.navbarHov:visited {
+  color: green;
+}
+img {
+  border-radius: 8px;
+}
